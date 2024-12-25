@@ -1,0 +1,6 @@
+@DomainModelingMadeFunctional_HostAddress = http://localhost:5129
+
+GET {{DomainModelingMadeFunctional_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
